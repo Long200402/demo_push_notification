@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "894546526719",
+    "project_id": "demofcm-eb234",
+    "storage_bucket": "demofcm-eb234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894546526719:android:fd43801154c66b7e4927ca",
+        "android_client_info": {
+          "package_name": "com.example.demo_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894546526719-r9klikp40k53dce2iqsdf8vnah4v8dpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPHwWP2-3A0oCevOzJfgc33-S1BQOX9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894546526719-r9klikp40k53dce2iqsdf8vnah4v8dpa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894546526719-624kivhtbo9d819jur7mnvei8fs6r7cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoFcm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
